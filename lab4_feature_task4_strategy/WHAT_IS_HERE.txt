@@ -1,0 +1,1 @@
+Ця папка для гілки feature/task4-strategy. Містить main + завдання 4 (Strategy).
