@@ -1,0 +1,1 @@
+Ця папка для гілки feature/task3-observer. Містить main + завдання 3 (Observer).
